@@ -1,0 +1,13 @@
+﻿  test.cpp
+D:\BiTeStudy\Cpp_Study\vector\vector.h(86,22): warning C4018: “<”: 有符号/无符号不匹配
+  (编译源文件“test.cpp”)
+  D:\BiTeStudy\Cpp_Study\vector\vector.h(86,22):
+  模板实例化上下文(最早的实例化上下文)为
+  	D:\BiTeStudy\Cpp_Study\vector\vector.h(494,18):
+  	查看对正在编译的 类 模板 实例化“jyf::vector<std::string>”的引用
+  	D:\BiTeStudy\Cpp_Study\vector\vector.h(77,3):
+  	在编译 类 模板 成员函数“jyf::vector<std::string>::vector(const jyf::vector<std::string> &)”时
+  		D:\BiTeStudy\Cpp_Study\vector\vector.h(507,20):
+  		请参阅 "jyf::test07" 中对 "jyf::vector<std::string>::vector" 的第一个引用
+  
+  vector.vcxproj -> D:\BiTeStudy\Cpp_Study\vector\Debug\vector.exe
