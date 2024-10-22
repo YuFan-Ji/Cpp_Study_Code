@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BiTeStudy\\Cpp_Study\\template_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A5883FC-F8AB-4F58-9AA1-458A5C830C2C}|template_2.vcxproj|D:\\BiTeStudy\\Cpp_Study\\template_2\\Stack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9A5883FC-F8AB-4F58-9AA1-458A5C830C2C}|template_2.vcxproj|solutionrelative:Stack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A5883FC-F8AB-4F58-9AA1-458A5C830C2C}|template_2.vcxproj|D:\\BiTeStudy\\Cpp_Study\\template_2\\Stack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9A5883FC-F8AB-4F58-9AA1-458A5C830C2C}|template_2.vcxproj|solutionrelative:Stack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A5883FC-F8AB-4F58-9AA1-458A5C830C2C}|template_2.vcxproj|D:\\BiTeStudy\\Cpp_Study\\template_2\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9A5883FC-F8AB-4F58-9AA1-458A5C830C2C}|template_2.vcxproj|solutionrelative:test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Stack.cpp",
+              "DocumentMoniker": "D:\\BiTeStudy\\Cpp_Study\\template_2\\Stack.cpp",
+              "RelativeDocumentMoniker": "Stack.cpp",
+              "ToolTip": "D:\\BiTeStudy\\Cpp_Study\\template_2\\Stack.cpp",
+              "RelativeToolTip": "Stack.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-19T14:07:46.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Stack.h",
+              "DocumentMoniker": "D:\\BiTeStudy\\Cpp_Study\\template_2\\Stack.h",
+              "RelativeDocumentMoniker": "Stack.h",
+              "ToolTip": "D:\\BiTeStudy\\Cpp_Study\\template_2\\Stack.h",
+              "RelativeToolTip": "Stack.h",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAuwC8AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-19T14:07:17.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "test.cpp",
+              "DocumentMoniker": "D:\\BiTeStudy\\Cpp_Study\\template_2\\test.cpp",
+              "RelativeDocumentMoniker": "test.cpp",
+              "ToolTip": "D:\\BiTeStudy\\Cpp_Study\\template_2\\test.cpp",
+              "RelativeToolTip": "test.cpp",
+              "ViewState": "AQIAAOMAAAAAAAAAAAAAAO8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-19T11:23:24.839Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
