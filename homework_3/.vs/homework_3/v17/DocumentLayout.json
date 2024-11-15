@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\BiTeStudy\\Cpp_Study\\homework_3\\",
+  "WorkspaceRootPath": "D:\\BiTeStudy\\Code\\Cpp_Study_Code\\homework_3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{41905D18-F72A-461B-878C-DB2003582F2F}|homework_3.vcxproj|D:\\BiTeStudy\\Cpp_Study\\homework_3\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{41905D18-F72A-461B-878C-DB2003582F2F}|homework_3.vcxproj|D:\\BiTeStudy\\Code\\Cpp_Study_Code\\homework_3\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{41905D18-F72A-461B-878C-DB2003582F2F}|homework_3.vcxproj|solutionrelative:test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -24,9 +24,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "test.cpp",
-              "DocumentMoniker": "D:\\BiTeStudy\\Cpp_Study\\homework_3\\test.cpp",
+              "DocumentMoniker": "D:\\BiTeStudy\\Code\\Cpp_Study_Code\\homework_3\\test.cpp",
               "RelativeDocumentMoniker": "test.cpp",
-              "ToolTip": "D:\\BiTeStudy\\Cpp_Study\\homework_3\\test.cpp",
+              "ToolTip": "D:\\BiTeStudy\\Code\\Cpp_Study_Code\\homework_3\\test.cpp",
               "RelativeToolTip": "test.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAEgAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
