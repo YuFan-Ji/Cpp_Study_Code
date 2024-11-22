@@ -1,0 +1,8 @@
+﻿  test.cpp
+D:\BiTeStudy\Cpp_Study\RBTree_1\test.cpp(11,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\BiTeStudy\Cpp_Study\RBTree_1\test.cpp(15,15): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+D:\BiTeStudy\Cpp_Study\RBTree_1\test.cpp(15,15): warning C4267:         with
+D:\BiTeStudy\Cpp_Study\RBTree_1\test.cpp(15,15): warning C4267:         [
+D:\BiTeStudy\Cpp_Study\RBTree_1\test.cpp(15,15): warning C4267:             _Ty=int
+D:\BiTeStudy\Cpp_Study\RBTree_1\test.cpp(15,15): warning C4267:         ]
+  RBTree_1.vcxproj -> D:\BiTeStudy\Cpp_Study\RBTree_1\x64\Debug\RBTree_1.exe
