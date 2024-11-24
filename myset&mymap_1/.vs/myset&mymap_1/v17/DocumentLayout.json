@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BiTeStudy\\Cpp_Study\\myset\u0026mymap_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{126015A1-03B5-4882-BD9B-E6F6EDCCDD13}|myset\u0026mymap_1.vcxproj|D:\\BiTeStudy\\Cpp_Study\\myset\u0026mymap_1\\RBTree.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{126015A1-03B5-4882-BD9B-E6F6EDCCDD13}|myset\u0026mymap_1.vcxproj|solutionrelative:RBTree.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126015A1-03B5-4882-BD9B-E6F6EDCCDD13}|myset\u0026mymap_1.vcxproj|D:\\BiTeStudy\\Cpp_Study\\myset\u0026mymap_1\\myset.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{126015A1-03B5-4882-BD9B-E6F6EDCCDD13}|myset\u0026mymap_1.vcxproj|solutionrelative:myset.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126015A1-03B5-4882-BD9B-E6F6EDCCDD13}|myset\u0026mymap_1.vcxproj|D:\\BiTeStudy\\Cpp_Study\\myset\u0026mymap_1\\mymap.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{126015A1-03B5-4882-BD9B-E6F6EDCCDD13}|myset\u0026mymap_1.vcxproj|solutionrelative:mymap.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126015A1-03B5-4882-BD9B-E6F6EDCCDD13}|myset\u0026mymap_1.vcxproj|D:\\BiTeStudy\\Cpp_Study\\myset\u0026mymap_1\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{126015A1-03B5-4882-BD9B-E6F6EDCCDD13}|myset\u0026mymap_1.vcxproj|solutionrelative:test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BiTeStudy\\Cpp_Study\\stl30\\stl_map.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BiTeStudy\\Cpp_Study\\stl30\\stl_tree.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BiTeStudy\\Cpp_Study\\stl30\\stl_set.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "stl_tree.h",
+              "DocumentMoniker": "D:\\BiTeStudy\\Cpp_Study\\stl30\\stl_tree.h",
+              "RelativeDocumentMoniker": "..\\stl30\\stl_tree.h",
+              "ToolTip": "D:\\BiTeStudy\\Cpp_Study\\stl30\\stl_tree.h [\u53EA\u8BFB]",
+              "RelativeToolTip": "..\\stl30\\stl_tree.h [\u53EA\u8BFB]",
+              "ViewState": "AQIAAJsBAAAAAAAAAAAswLYBAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-24T04:51:54.507Z",
+              "IsPinned": true,
+              "EditorCaption": " [\u53EA\u8BFB]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "stl_set.h",
+              "DocumentMoniker": "D:\\BiTeStudy\\Cpp_Study\\stl30\\stl_set.h",
+              "RelativeDocumentMoniker": "..\\stl30\\stl_set.h",
+              "ToolTip": "D:\\BiTeStudy\\Cpp_Study\\stl30\\stl_set.h [\u53EA\u8BFB]",
+              "RelativeToolTip": "..\\stl30\\stl_set.h [\u53EA\u8BFB]",
+              "ViewState": "AQIAAB4AAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-24T04:57:06.106Z",
+              "IsPinned": true,
+              "EditorCaption": " [\u53EA\u8BFB]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "stl_map.h",
+              "DocumentMoniker": "D:\\BiTeStudy\\Cpp_Study\\stl30\\stl_map.h",
+              "RelativeDocumentMoniker": "..\\stl30\\stl_map.h",
+              "ToolTip": "D:\\BiTeStudy\\Cpp_Study\\stl30\\stl_map.h [\u53EA\u8BFB]",
+              "RelativeToolTip": "..\\stl30\\stl_map.h [\u53EA\u8BFB]",
+              "ViewState": "AQIAACcAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-24T04:58:50.299Z",
+              "IsPinned": true,
+              "EditorCaption": " [\u53EA\u8BFB]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "test.cpp",
+              "DocumentMoniker": "D:\\BiTeStudy\\Cpp_Study\\myset\u0026mymap_1\\test.cpp",
+              "RelativeDocumentMoniker": "test.cpp",
+              "ToolTip": "D:\\BiTeStudy\\Cpp_Study\\myset\u0026mymap_1\\test.cpp",
+              "RelativeToolTip": "test.cpp",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAYwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-23T14:02:05.714Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "myset.h",
+              "DocumentMoniker": "D:\\BiTeStudy\\Cpp_Study\\myset\u0026mymap_1\\myset.h",
+              "RelativeDocumentMoniker": "myset.h",
+              "ToolTip": "D:\\BiTeStudy\\Cpp_Study\\myset\u0026mymap_1\\myset.h",
+              "RelativeToolTip": "myset.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-23T14:01:50.598Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "mymap.h",
+              "DocumentMoniker": "D:\\BiTeStudy\\Cpp_Study\\myset\u0026mymap_1\\mymap.h",
+              "RelativeDocumentMoniker": "mymap.h",
+              "ToolTip": "D:\\BiTeStudy\\Cpp_Study\\myset\u0026mymap_1\\mymap.h",
+              "RelativeToolTip": "mymap.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-23T14:02:00.666Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RBTree.h",
+              "DocumentMoniker": "D:\\BiTeStudy\\Cpp_Study\\myset\u0026mymap_1\\RBTree.h",
+              "RelativeDocumentMoniker": "RBTree.h",
+              "ToolTip": "D:\\BiTeStudy\\Cpp_Study\\myset\u0026mymap_1\\RBTree.h",
+              "RelativeToolTip": "RBTree.h",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAowIAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-23T14:01:37.986Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
