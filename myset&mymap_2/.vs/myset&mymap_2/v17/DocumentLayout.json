@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BiTeStudy\\Cpp_Study\\myset\u0026mymap_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45B73BDF-25EC-45D6-92DA-E617FEC0B33E}|myset\u0026mymap_2.vcxproj|D:\\BiTeStudy\\Cpp_Study\\myset\u0026mymap_2\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{45B73BDF-25EC-45D6-92DA-E617FEC0B33E}|myset\u0026mymap_2.vcxproj|solutionrelative:test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B73BDF-25EC-45D6-92DA-E617FEC0B33E}|myset\u0026mymap_2.vcxproj|D:\\BiTeStudy\\Cpp_Study\\myset\u0026mymap_2\\mymap.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{45B73BDF-25EC-45D6-92DA-E617FEC0B33E}|myset\u0026mymap_2.vcxproj|solutionrelative:mymap.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B73BDF-25EC-45D6-92DA-E617FEC0B33E}|myset\u0026mymap_2.vcxproj|D:\\BiTeStudy\\Cpp_Study\\myset\u0026mymap_2\\myset.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{45B73BDF-25EC-45D6-92DA-E617FEC0B33E}|myset\u0026mymap_2.vcxproj|solutionrelative:myset.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B73BDF-25EC-45D6-92DA-E617FEC0B33E}|myset\u0026mymap_2.vcxproj|D:\\BiTeStudy\\Cpp_Study\\myset\u0026mymap_2\\RBTree.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{45B73BDF-25EC-45D6-92DA-E617FEC0B33E}|myset\u0026mymap_2.vcxproj|solutionrelative:RBTree.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.cpp",
+              "DocumentMoniker": "D:\\BiTeStudy\\Cpp_Study\\myset\u0026mymap_2\\test.cpp",
+              "RelativeDocumentMoniker": "test.cpp",
+              "ToolTip": "D:\\BiTeStudy\\Cpp_Study\\myset\u0026mymap_2\\test.cpp",
+              "RelativeToolTip": "test.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-24T15:22:58.239Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "myset.h",
+              "DocumentMoniker": "D:\\BiTeStudy\\Cpp_Study\\myset\u0026mymap_2\\myset.h",
+              "RelativeDocumentMoniker": "myset.h",
+              "ToolTip": "D:\\BiTeStudy\\Cpp_Study\\myset\u0026mymap_2\\myset.h",
+              "RelativeToolTip": "myset.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-24T15:22:55.721Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "mymap.h",
+              "DocumentMoniker": "D:\\BiTeStudy\\Cpp_Study\\myset\u0026mymap_2\\mymap.h",
+              "RelativeDocumentMoniker": "mymap.h",
+              "ToolTip": "D:\\BiTeStudy\\Cpp_Study\\myset\u0026mymap_2\\mymap.h",
+              "RelativeToolTip": "mymap.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-24T15:22:56.324Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RBTree.h",
+              "DocumentMoniker": "D:\\BiTeStudy\\Cpp_Study\\myset\u0026mymap_2\\RBTree.h",
+              "RelativeDocumentMoniker": "RBTree.h",
+              "ToolTip": "D:\\BiTeStudy\\Cpp_Study\\myset\u0026mymap_2\\RBTree.h",
+              "RelativeToolTip": "RBTree.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-24T15:22:55.035Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
