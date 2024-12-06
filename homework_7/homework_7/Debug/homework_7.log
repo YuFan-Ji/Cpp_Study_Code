@@ -1,0 +1,3 @@
+﻿  test.cpp
+D:\BiTeStudy\Cpp_Study\homework_7\test.cpp(258,30): warning C4018: “<”: 有符号/无符号不匹配
+  homework_7.vcxproj -> D:\BiTeStudy\Cpp_Study\homework_7\Debug\homework_7.exe
