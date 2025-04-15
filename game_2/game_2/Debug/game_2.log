@@ -1,0 +1,7 @@
+﻿  game.cpp
+D:\BiTeStudy\Cpp_Study\game_2\game.cpp(55,13): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\BiTeStudy\Cpp_Study\game_2\game.cpp(56,13): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\BiTeStudy\Cpp_Study\game_2\game.cpp(91,23): warning C4018: “<”: 有符号/无符号不匹配
+  test.cpp
+  正在生成代码...
+  game_2.vcxproj -> D:\BiTeStudy\Cpp_Study\game_2\Debug\game_2.exe

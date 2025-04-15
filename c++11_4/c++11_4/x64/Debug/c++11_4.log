@@ -1,0 +1,4 @@
+﻿  test.cpp
+D:\BiTeStudy\Cpp_Study\c++11_4\SmartPtr.h(5,1): error C1075: “{”: 未找到匹配令牌
+  (编译源文件“test.cpp”)
+  

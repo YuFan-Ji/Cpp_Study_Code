@@ -1,0 +1,65 @@
+﻿  test.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\type_traits(1739,98): warning C4244: “参数”: 从“_Cv_TiD”转换到“int”，可能丢失数据
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\type_traits(1739,98): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\type_traits(1739,98): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\type_traits(1739,98): warning C4244:             _Cv_TiD=double
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\type_traits(1739,98): warning C4244:         ]
+  (编译源文件“test.cpp”)
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\type_traits(1739,98):
+  模板实例化上下文(最早的实例化上下文)为
+  	D:\BiTeStudy\Cpp_Study\c++11_3\test.cpp(218,31):
+  	处理“std::function<int (int,int)>::function(_Fx &&)”的默认模板参数时
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\functional(1118,92):
+  	查看对正在编译的 别名 模板 实例化“std::_Func_class<_Ret,int,int>::_Enable_if_callable_t<std::_Binder<std::_Unforced,int (__cdecl &)(int,int,int),const std::_Ph<2> &,double,const std::_Ph<1> &>,std::function<int (int,int)>>”的引用
+          with
+          [
+              _Ret=int
+          ]
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\functional(960,47):
+  	查看指向正在编译的变量模板“const bool conjunction_v<std::negation<std::is_same<std::_Binder<std::_Unforced,int (__cdecl&)(int,int,int),std::_Ph<2> const &,double,std::_Ph<1> const &>,std::function<int __cdecl(int,int)> > >,std::_Is_invocable_r<int,std::_Binder<std::_Unforced,int (__cdecl&)(int,int,int),std::_Ph<2> const &,double,std::_Ph<1> const &> &,int,int> >”的引用
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\functional(960,47):
+  	查看对正在编译的 类 模板 实例化“std::_Is_invocable_r<_Ret,std::_Binder<std::_Unforced,int (__cdecl &)(int,int,int),const std::_Ph<2> &,double,const std::_Ph<1> &> &,int,int>”的引用
+          with
+          [
+              _Ret=int
+          ]
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\type_traits(1881,26):
+  	查看对正在编译的 别名 模板 实例化“std::_Is_invocable_r_<_Rx,_Callable,int,int>”的引用
+          with
+          [
+              _Rx=int,
+              _Callable=std::_Binder<std::_Unforced,int (__cdecl &)(int,int,int),const std::_Ph<2> &,double,const std::_Ph<1> &> &
+          ]
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\type_traits(1843,38):
+  	查看对正在编译的 别名 模板 实例化“std::_Decltype_invoke_nonzero<_Callable,int,int>”的引用
+          with
+          [
+              _Callable=std::_Binder<std::_Unforced,int (__cdecl &)(int,int,int),const std::_Ph<2> &,double,const std::_Ph<1> &> &
+          ]
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\type_traits(1635,81):
+  	查看对正在编译的函数 模板 实例化“int std::_Binder<std::_Unforced,int (__cdecl &)(int,int,int),const std::_Ph<2> &,double,const std::_Ph<1> &>::operator ()<int,int,0>(int &&,int &&) noexcept(false)”的引用
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\functional(2198,16):
+  	查看对正在编译的函数 模板 实例化“int std::_Call_binder<std::_Unforced,0,1,2,int(__cdecl *)(int,int,int),std::tuple<std::_Ph<2>,double,std::_Ph<1>>,std::tuple<int &&,int &&>>(std::_Invoker_ret<std::_Unforced>,std::integer_sequence<size_t,0,1,2>,_Cv_FD &,_Cv_tuple_TiD &,_Untuple &&) noexcept(false)”的引用
+          with
+          [
+              _Cv_FD=int (__cdecl *)(int,int,int),
+              _Cv_tuple_TiD=std::tuple<std::_Ph<2>,double,std::_Ph<1>>,
+              _Untuple=std::tuple<int &&,int &&>
+          ]
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\functional(2126,32):
+  	查看对正在编译的函数 模板 实例化“int std::_Invoker_ret<std::_Unforced>::_Call<int(__cdecl *&)(int,int,int),int,_Cv_TiD&,int>(_Fx,int &&,_Cv_TiD &,int &&) noexcept(false)”的引用
+          with
+          [
+              _Cv_TiD=double,
+              _Fx=int (__cdecl *&)(int,int,int)
+          ]
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\functional(2116,21):
+  	查看对正在编译的函数 模板 实例化“int std::invoke<int(__cdecl *&)(int,int,int),int,_Cv_TiD&,int>(_Callable,_Ty1 &&,_Cv_TiD &,int &&) noexcept(false)”的引用
+          with
+          [
+              _Cv_TiD=double,
+              _Callable=int (__cdecl *&)(int,int,int),
+              _Ty1=int
+          ]
+  
+  c++11_3.vcxproj -> D:\BiTeStudy\Cpp_Study\c++11_3\Debug\c++11_3.exe
